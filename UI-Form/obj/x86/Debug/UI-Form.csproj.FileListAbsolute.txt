@@ -1,0 +1,76 @@
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\UI_Form.Create.resources
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\UI_Form.WelForm.resources
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\UI_Form.Properties.Resources.resources
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\UI_Form.Update.resources
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Data Structure\User of csharp\BankSolution\UI-Form\bin\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\BankSolution\UI-Form\bin\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\BankSolution\UI-Form\bin\Debug\BO.dll
+E:\Data Structure\User of csharp\BankSolution\UI-Form\bin\Debug\Dull.dll
+E:\Data Structure\User of csharp\BankSolution\UI-Form\bin\Debug\BO.pdb
+E:\Data Structure\User of csharp\BankSolution\UI-Form\bin\Debug\Dull.pdb
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\BankSolution\UI-Form\obj\x86\Debug\UI_Form.UpdateAccount.resources
+E:\Data Structure\User of csharp\BankSolution\UI-Form\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\BankSolution\UI-Form\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\BankSolution Main\UI-Form\obj\x86\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\BankSolution Main\UI-Form\obj\x86\Debug\UI-Form.pdb
+E:\Data Structure\my habijabi\BankSolution Main\UI-Form\obj\x86\Debug\UI-Form.exe
+E:\Data Structure\my habijabi\BankSolution Main\UI-Form\obj\x86\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\bin\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\bin\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\bin\Debug\BO.dll
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\bin\Debug\Dull.dll
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\bin\Debug\BO.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\bin\Debug\Dull.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.Create.resources
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.UpdateAccount.resources
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.WelForm.resources
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.Properties.Resources.resources
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.Update.resources
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.ChangeBlalance.resources
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI-Form.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\BankSolution_Change\UI-Form\obj\x86\Debug\UI-Form.csproj.GenerateResource.Cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\bin\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\bin\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\bin\Debug\BO.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\bin\Debug\Dull.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\bin\Debug\BO.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\bin\Debug\Dull.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI-Form.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.ChangeBlalance.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.Create.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.UpdateAccount.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.WelForm.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.Properties.Resources.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI_Form.Update.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\UI-Form\obj\x86\Debug\UI-Form.csproj.GenerateResource.Cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\bin\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\bin\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\bin\Debug\BO.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\bin\Debug\Dull.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\bin\Debug\BO.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\bin\Debug\Dull.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI-Form.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI_Form.ChangeBlalance.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI_Form.Create.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI_Form.UpdateAccount.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI_Form.WelForm.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI_Form.Properties.Resources.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI_Form.Update.resources
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\UI-Form\obj\x86\Debug\UI-Form.csproj.GenerateResource.Cache

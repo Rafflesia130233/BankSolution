@@ -1,0 +1,20 @@
+E:\Data Structure\User of csharp\BankSolution\Entity\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\BankSolution\Entity\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\BankSolution\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\BankSolution\Entity\obj\Debug\Entity.dll
+E:\Data Structure\User of csharp\BankSolution\Entity\obj\Debug\Entity.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\Entity\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\BankSolution_Change\Entity\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\Entity\obj\Debug\Entity.dll
+E:\Data Structure\User of csharp\BankSolution_Change\Entity\obj\Debug\Entity.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Entity\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Entity\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Entity\obj\Debug\Entity.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Entity\obj\Debug\Entity.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Entity\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Entity\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Entity\obj\Debug\Entity.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Entity\obj\Debug\Entity.pdb

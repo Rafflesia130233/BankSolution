@@ -1,0 +1,28 @@
+E:\Data Structure\User of csharp\BankSolution\Dal\bin\Debug\Dull.dll
+E:\Data Structure\User of csharp\BankSolution\Dal\bin\Debug\Dull.pdb
+E:\Data Structure\User of csharp\BankSolution\Dal\obj\Debug\ResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\BankSolution\Dal\obj\Debug\Dull.dll
+E:\Data Structure\User of csharp\BankSolution\Dal\obj\Debug\Dull.pdb
+E:\Data Structure\User of csharp\BankSolution\Dal\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\BankSolution\Dal\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\Dal\bin\Debug\Dull.dll
+E:\Data Structure\User of csharp\BankSolution_Change\Dal\bin\Debug\Dull.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\Dal\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\BankSolution_Change\Dal\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\Dal\obj\Debug\Dull.dll
+E:\Data Structure\User of csharp\BankSolution_Change\Dal\obj\Debug\Dull.pdb
+E:\Data Structure\User of csharp\BankSolution_Change\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Dal\bin\Debug\Dull.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Dal\bin\Debug\Dull.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Dal\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Dal\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Dal\obj\Debug\Dull.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution_Change\Dal\obj\Debug\Dull.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Dal\bin\Debug\Dull.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Dal\bin\Debug\Dull.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Dal\bin\Debug\Entity.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Dal\bin\Debug\Entity.pdb
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Dal\obj\Debug\Dull.dll
+E:\Data Structure\User of csharp\Main Class Project\BankSolution\Dal\obj\Debug\Dull.pdb
